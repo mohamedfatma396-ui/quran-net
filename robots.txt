@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://graceful-gelato-0ab3e0.netlify.app/sitemap.xml
